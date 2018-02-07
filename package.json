@@ -1,0 +1,11 @@
+{
+  "name": "serverless-nba",
+  "version": "1.0.0",
+  "description": "Serverless GraphQL API of my nba database",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
